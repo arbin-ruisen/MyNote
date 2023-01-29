@@ -1,1 +1,1 @@
-# MyNote
+https://arbin-ruisen.github.io/MyNote/#/
