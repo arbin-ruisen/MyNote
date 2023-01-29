@@ -1,4 +1,10 @@
-### github简单流程
+# 参考
+
+https://git-scm.com/book/zh/v2
+
+
+
+# github简单流程
 
 #### 初始化
 
@@ -338,10 +344,4 @@ git pull #git fetch git merge 组合成
 
 git remote add upstream #address
 ```
-
-
-
-#### 参考
-
-https://git-scm.com/book/zh/v2
 
