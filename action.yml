@@ -1,0 +1,24 @@
+name: 'docsify-action'
+description: 'create docs'
+author: 'Tal Hayut'
+inputs:
+  github_token:  
+    description: 'github access token'
+    required: true
+  dir:  
+    description: 'destination dir'
+    default: 'docs'
+  branch:  
+    description: 'destination branch'
+    default: 'master'
+  docsify_args:  
+    description: 'docsify-cli args'
+  commit_msg:
+    description: 'commit message used when pushing'
+    default: 'docs update 📚'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
+branding:
+  icon: 'book-open'
+  color: 'purple'
