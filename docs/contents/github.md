@@ -180,7 +180,7 @@ git status
 vim main2.c
 git add main2.c
 git diff 
-git diff --staged #暂存区和最近提交区别
+git diff --cached #暂存区和最近提交区别
 git reset HEAD main2.c #最新提交里恢复暂存的main2.c
 git status
 git checkout -- main2.c #恢复文件树的内容
@@ -343,5 +343,16 @@ git remote remove
 git pull #git fetch git merge 组合成
 
 git remote add upstream #address
+```
+
+
+
+#### 管理大文件
+
+GitHub 限制文件大小
+https://docs.github.com/zh/repositories/working-with-files/managing-large-files
+
+```bash
+git lfs track "*.lib" #关联 .lib 文件
 ```
 
