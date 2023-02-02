@@ -31,7 +31,7 @@
 </style>
 
 Protect matching branches
-=========================
+-------------------------
 
 ![](https://gcore.jsdelivr.net/gh/arbin-ruisen/pic-bed@master/pic/image1.png)
 <br/>
@@ -55,8 +55,7 @@ Docs*](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests
 
 
 <br/><br/>
-Require approvals
------------------
+## Require approvals
 
 针对匹配分支的拉取请求需要审批(写审批人数)
 
@@ -76,7 +75,7 @@ Dismiss stale pull request approvals when new commits are pushed
 Require review from Code Owners
 -------------------------------
 
-要求代码所有者审阅
+## 要求代码所有者审阅
 
 
 <br/><br/>
@@ -95,8 +94,7 @@ Require approval of the most recent reviewable push
 
 
 <br/><br/>
-在分支保护下 Pull Request流程
-----------------
+# 在分支保护下 Pull Request流程
 
 目前配置：
 
