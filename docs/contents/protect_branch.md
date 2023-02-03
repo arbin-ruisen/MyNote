@@ -94,7 +94,7 @@ Require approval of the most recent reviewable push
 
 
 <br/><br/>
-# 在分支保护下 Pull Request流程
+# 在分支保护下 合作者Pull Request流程
 
 目前配置：
 
