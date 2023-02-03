@@ -48,7 +48,7 @@ Docs*](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests
 
 ![](https://gcore.jsdelivr.net/gh/arbin-ruisen/pic-bed@master/pic/image2.png)
 
-*[审查拉取请求](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)建议更改*
+[*审查拉取请求建议更改*](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)
 
 [*忽略拉取请求审查 - GitHub
 Docs*](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/dismissing-a-pull-request-review)
